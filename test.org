@@ -1,0 +1,267 @@
+* test
+** tesno
+| 1                   | 2                     |                    3 | 4 | 5 |
+|---------------------+-----------------------+----------------------+---+---|
+| prision escape      | steal drow relic      | join bregan daearthe |   |   |
+| join bragan dearthe | take down drow family |                      |   |   |
+
+
+* prison 
+** Description
+You wake up outside.  purple ambient light
+reflects off the underdark cieling of a
+prision cage in the outskirts of
+menzobarenson.
+
+There are a row of cages. In your cage you
+see a beaten looking [[Goiam][dwarf]], a calm [[roki][duegar]], a
+red  [[mincus][huminnoid lizard]], and a large leathery
+skined monstroaity that you recoginize to be a
+[[krag][ogre]].
+
+the cage next to you quakes as an equally
+large horned bipedal  [[bessy][cow]]  smashes her
+horns violently at its bars. 
+** Characters 
+*** Goiam
+**** Description
+A beaten dwarf lays with his back to the bars
+of his cave. He can barely stand. His red
+beard is torn and only covers half his face.
+the other half of his face is a dark mass of
+scabs and ingrown hair. He is gently sobbing.
+**** Background
+just there for flavor. he will only cry when
+trapped too.
+*** bessy
+**** Description
+A large minitour agressivly quakes the cage
+next to you.  She is currently the only
+creature in the cage. but fresh bloodstains
+paint the floor beneath her.
+**** Background
+Normally dark elves dont enaslave
+minitouars. they are hard to tame. they are
+not trying to tame this lady however. she
+will be sent to the arenas wild.  
+*** roki
+**** Description
+bald duegar. He picks his teath with a quill
+from his black spikey beard of quills. He
+looks at ease.
+**** Background
+He has also been here for a while he knows
+how the system works and fakes being weaker
+than he is so he won't be sold. All things
+considering he has a good thing going at the
+prison. He knows how to get contraband in and
+he his friends with the gaurds. people
+protect him as long as he's useful and
+doesn't stop on anyone's toes.
+*** mincus
+**** Description
+kobold. Red lizard man. Not beat up. 
+**** Background
+He used too serve a dragon. But she lost one
+of her eggs a stupid gnome and a goddy
+tiefling. She rejected him and her other
+servants and he's been having a bad time on
+his own. He went too the underdark looking
+for a way to redeem himself in her eyes. As
+servitude is all he knows.  things considered
+bge doesn't mind being a slave. As being an
+independent thinker served him pretty poorly
+thus far. 
+*** krag
+**** Description
+Ogre. He massive with no hair and grey skin.
+Chained and scarred. His heard is slightly
+caved in. Hee is in the same cage as you. 
+**** Background
+he has been here for a while. The drow are
+prepping him for the market.They are almost
+done breaking his spirit.
+** Events
+*** Mining 
+a [[female-guard]] and [[male-gaurd]] hand you pick
+axes. They lead you outside the prison. you
+walk for hours. the lights of menzobarenson
+fade in the distance. One directional lamps
+face away from your path creating a [[barrier
+of light on path ][ barrier of
+light(insight)]].  eventually you come across
+an area filled with shiny ore. the male
+gaurd points to a mining cart and tells you
+to fill it. Enfebled slaves toil on the
+rocks. 
+
+there is a ruby in the ground. [[take ruby
+from mine][take ruby (slight of hand)]]
+
+a monster walks into the camp and just start
+killing folk. Guards don't care. when one of
+the prisoners die. the guy guard gives the
+female gaurd a few copper.
+
+
+if the players beat the monster male gaurd
+strectches out his hand towards the female
+gautd. but she ignores him.
+
+
+the female gaurd asks where the pcs
+learned to fight. she says there is
+better work available if the players
+answer earnestly.
+
+
+
+
+*** prision riot
+*** offer to join gang
+*** gaurd beats a child
+a little drow boy is dressed in what
+looks like guard footie pajamas. hes
+hugging  a male drow leg as the
+drow instructs military men in the art off
+swordplay.
+
+the instructor has the players to join
+as sparing partners.
+
+He asks that no one hurt each other too
+bad.
+
+A woman wearing a flowey
+white robe walks towards the men. She
+wields a whip with a head of snakes.
+
+"battle master why isnt terminus
+training", the words fly out of her mouth like
+daggers.
+
+"watching is training", he says with a coy
+smile. 
+
+the boy let's  go of the man's
+leg and starts to run.
+
+the woman responds with the hiss of her
+snake whip. the whips jaw unhinges and
+clasps around the child leg.
+
+"You must learn to be tough and represent
+house roti properly.", she says. 
+
+"battle master teach him properly, and
+if your disposition rubs off on him any
+more your skills with the blade will not
+save ur job our your life."  
+
+she releases her whip an storm's off
+angrily.
+
+the battle masteer doesn't seem to care
+for her comment. He walks up to the
+boy. whispers something in the boys ear
+and the boy whipes down a tear and limps
+away. 
+
+*** Girl gaurds harrass male guard
+    She tips water on his croch and
+     awkwardly whipes it off. Then
+    smacks his ass with the towel and
+    says "move along candy ass". 
+ 
+    he looks at her puts on a fake smile
+     then turns around frowns and
+     beats the crap out of [[Goiam][Goiam]]
+
+    after a while of this. the girl
+    starts getting chocked by [[bessy][bessy]]. 
+
+the man stops beating [[Goiam][Goiam]] to turn and
+help her. [[let her die (persuasion)][let her die]]
+
+if she dies the foreman promotes him.
+
+     
+
+* female-guard
+* male-gaurd
+
+* barrier of light on path
+  +-----+-----+
+  |check  |  de   sc   |
+  +-----+----------+
+  | 10  |These     |
+  |     |lights    |
+  |     |ward off  |
+  |     |the       |
+  |     |powerful  |
+  |     |wild life |
+  |     |of the    |
+  |     |underdark.|
+  |     |          |
+  +-----+----------+
+  |     |          |
+  |     |          |
+  |     |          |
+  |     |          |
+  |     |          |
+  |     |          |
+  |     |          |
+  |     |          |
+  |     |          |
+  +-----+----------+
+
+* take ruby from mine
+|-------+---------------------------|
+| check | desc                      |
+|-------+---------------------------|
+|    15 | You wait until the guards |
+|       | are turned away and you   |
+|       | slidethe ruby into the    |
+|       | lining of ur underwear.   |
+|       |                           |
++-------+---------------------------+  
+
+* let her die (persuasion)
+  +------+---------------+
+  |      |               |
+  | check|  desc         |
+  |      |               |
+  |      |               |
+  +------+---------------+
+  |  7 - |he smiles      |
+  |      |pondering it   |
+  |      |for a          |
+  |      |moment. then   |
+  |      |slowly walks   |
+  |      |to help her.   |
+  |      |by giving      |
+  |      |her the        |
+  |      |whip.          |
+  +------+---------------+
+  |      |               |
+  |      |               |
+  |  else|               |
+  |      |               |
+  |      |               |
+  |      |               |
+  |      |               |
+  |      |               |
+  |      |               |
+  |      |               |
+  |      |         he    |
+  |      |stabs her in   |
+  |      |the back.      |
+  |      |eventually     |
+  |      |ahigher ranking|
+  |      |guard comes in |
+  |      |sees the knife |
+  |      |inn her back   |
+  |      |and promotes   |
+  |      |the murderer.  |
+  +------+---------------+
+
