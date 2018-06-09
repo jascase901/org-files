@@ -1,9 +1,9 @@
 * test
 ** tesno
-| 1                   | 2                     |                    3 | 4 | 5 |
-|---------------------+-----------------------+----------------------+---+---|
-| prision escape      | steal drow relic      | join bregan daearthe |   |   |
-| join bragan dearthe | take down drow family |                      |   |   |
+| 1                   | 2                |                    3 |                                 4 |                                                         5 | 6 |
+|---------------------+------------------+----------------------+-----------------------------------+-----------------------------------------------------------+---|
+| prision escape      | steal drow relic | join bregan daearthe | cut off funding to powerful house | propoganda campain to make house fear teleportation magic |   |
+| join bragan dearthe | steal drow relic |                      |                                   |                                                           |   |
 
 
 * prison 
@@ -13,10 +13,10 @@ reflects off the underdark cieling of a
 prision cage in the outskirts of
 menzobarenson.
 
-There are a row of cages. In your cage you
-see a beaten looking [[Goiam][dwarf]], a calm [[roki][duegar]], a
+There are a row of Cells. Yours has
+a beaten looking [[Goiam][dwarf]], a calm [[roki][duegar]], a
 red  [[mincus][huminnoid lizard]], and a large leathery
-skined monstroaity that you recoginize to be a
+skined monster that you recoginize to be a
 [[krag][ogre]].
 
 the cage next to you quakes as an equally
