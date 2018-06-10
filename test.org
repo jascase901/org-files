@@ -1,10 +1,154 @@
+
+  
+* Summary
+  One tennat of Menzobarenzon culture was that civilians can
+  not freely go to the surface world. The surface world has
+  historically been painted as a place of curroption. The
+  old ruling houses determined that 
+  [[isolationist propoganda strengthens their control over the
+  population]]. Opening up the surface would expose the lie. 
+
+  However through the passage of time new leaders have
+  suceeded the old leaders, and they believe that the
+  [[profits gained from opening the boarders of menzobarenzon]]
+  outwiegh the negatives.
+  
+
+  Your benifactor, [[Jarlaxe ]]has great political power as
+  the leader of one of the only organziations that could
+  smuggle goods from the surface the cost.
+
+  His goal is to ensure that drow do not open their boarder
+  to the surface. He is willing to attack [[this problem
+  through any means necessary]]  
+  
+ The prision that the pc are inhabiting happens to be a
+ private prision under the [[house udan]]. They are a small
+ house with a weak military see ([[profits gained from opening
+ the boarders of menzobarenzon]]) 
+ 
+** Act 1
+  [[House Udan]] lost their powerful mages in a house struggle. As such
+  it is believed they do not have the ability to open a gate
+  to the surface world. However, their leader [[Adre'a]] has been
+  argueing strongly for opening the gates. [[Jarlaxe]] wishes to
+  have the players discover why.
+ 
+** Act 2 
+  The players discover that while they do not have mages.
+  Another house [[Reizer]] freely gave them a stone that allows
+  teleportation to the surface world. Using this stone they
+  could without mages invade the surface and pillage openly.
+  The players may also learn that behind closed doors they
+  have already plundered a dwarf town killing everyone
+  except for the towns strongest warrior [[Goiam]]. They took
+  him to the prision for study breaking him mentally through
+  months of torture.
+  
+** Act 3
+   Upon hearing this news [[Jarlax]] decides he needs time to
+   think. He tells the players that no matter what his plan
+   is they are going to see combat. He hands them a sack of
+   gold for more weapons and magic and tells them to talk to
+   his battlemaster [[Jletha]] who will asses the players
+   strengths and weaknesses and give them magical gear
+   depending on how they do.
+
+** Act 4
+   [[Jarlaxe]] reveals that he sees two possible courses of
+   action.
+*** Course one
+    If you guys think you can doit. We destroy [[House Udan]]. 
+    They have been severly weakend. You guys as former
+    prisioners could insight a riot. Use your connections to
+    anger those strong enough to fight against their masters
+    whip. When their troups are occupied our mercanaries can
+    take action. Of course every member of [[House Udan]] must be
+    vanuished. Even though everyone would know that we took
+    out [[House Udan]] if it actually gets out that we did it
+    would reflect poorly on us.
+
+*** Course two
+    It may be enough to simply steal the artifact. [[Reizer]]
+    leads a powerful house, and she is not the most
+    understanding of woman.  Her resources and experience
+    are greater than mine, and I suspect that her
+    displeasure would be enough to cause her to take up
+    arms.
+
+    No matter what you do retrieve the stone. We have mages that
+    can teleport to the surface so I don't need it for
+    function. But if it some how ends up in the hands of a great
+    house it could be used to create tension among the
+    factions who wish to open up the surface...
+
+
+ in both cases I would like to delegate the planning to you.
+ You are domain experts in the ongoings of [[House Udan]]. All
+ the Bragan Dearthes resources will be available to you. No
+ matter which plan you chose and feel free to come to me
+ with any questions you may have about strategy.
+ 
+** Act 5
+   Rewards are in order.
+*** Aarons characters
+      As a suprise for you our mages of finished gathering
+     material components require to open up a gate. You may go
+     home now if you wish. However I hope you are aware that you do
+     have a place in the Bragan Dearthe if you would rather
+     stay. I have seen your power. The Dearthe would help
+     you grow if you wish to let them.
+
+*** Alex's character
+   You are special. As you may have noticed this a little
+   boys club. And there are problems too big for our little 
+   boy minds at times. I would like you to be the face of
+   the Bragan Dearthe. Mine makes people angry. But yours is
+   more traditional. I want you to deal with clients who
+   will refuse to talk to my other captians. And as such I
+   am willing offer you control over your own group of
+   fighters. My heart belongs to the surface. And I would
+   rather spend my days up there. I only with to deal with
+   my duties to the Dearthe when I feel like it is currently
+   threatened. So when we finish manipulating the council
+   believe it or not I think you have a shot at gaining
+   control of the dearthe. Provided you are willing to take
+   said shot.
+
+** Act 6
+
+*** If aaron decides to stay 
+    I am glad you decided to stay. I would like to use the
+    material components to introduce you to the oracle. A
+    powerful elven lady from the surface. I believe talking
+    to her will strengthen your resolve for are current
+    cause. Additionally as a woman sympathetic to our cause
+    she will offer you aid in the form of magical artifacts
+    tailored to whatever she sees in you. He jiggles one of
+    his amulates and becomes translusent for a moment.
+*** If aaron decides to leave
+   Ill ask aaron where he wants to go and who he wants to
+   meet.
+   
+   At they end of it [[Jarlaxe]] decides whatever happened was
+   sweet. But Alex needs a new second in command. And I
+   introduce her to Aarons new character.
+
+   There is still much to do. We have stopped one house. There
+ are more. For now take some much needed rest.
+
+
+
+
+
+
+
 * test
 ** tesno
 | 1                   | 2                |                    3 |                                 4 |                                                         5 | 6 |
 |---------------------+------------------+----------------------+-----------------------------------+-----------------------------------------------------------+---|
 | prision escape      | steal drow relic | join bregan daearthe | cut off funding to powerful house | propoganda campain to make house fear teleportation magic |   |
 | join bragan dearthe | steal drow relic |                      |                                   |                                                           |   |
-
 
 * prison 
 ** Description
@@ -25,14 +169,14 @@ horns violently at its bars.
 ** Characters 
 *** Goiam
 **** Description
-A beaten dwarf lays with his back to the bars
-of his cave. He can barely stand. His red
-beard is torn and only covers half his face.
-the other half of his face is a dark mass of
-scabs and ingrown hair. He is gently sobbing.
+     A beaten dwarf lays with his back to the bars
+     of his cave. He can barely stand. His red
+     beard is torn and only covers half his face.
+     the other half of his face is a dark mass of
+     scabs and ingrown hair. He is gently sobbing.
 **** Background
-just there for flavor. he will only cry when
-trapped too.
+     just there for flavor. he will only cry when
+     trapped too.
 *** bessy
 **** Description
 A large minitour agressivly quakes the cage
@@ -83,89 +227,81 @@ prepping him for the market.They are almost
 done breaking his spirit.
 ** Events
 *** Mining 
-a [[female-guard]] and [[male-gaurd]] hand you pick
-axes. They lead you outside the prison. you
-walk for hours. the lights of menzobarenson
-fade in the distance. One directional lamps
-face away from your path creating a [[barrier
-of light on path ][ barrier of
-light(insight)]].  eventually you come across
-an area filled with shiny ore. the male
-gaurd points to a mining cart and tells you
-to fill it. Enfebled slaves toil on the
-rocks. 
+    a [[female-guard]] and [[male-gaurd]] hand you pick axes. They
+    lead you outside the prison. you walk for hours. the
+    lights of menzobarenson fade in the distance. One
+    directional lamps face away from your path creating a [[barrier of light on path ][
+    barrier of light(insight)]]. eventually you come across an
+    area filled with shiny ore. the male gaurd points to a
+    mining cart and tells you to fill it. Enfebled slaves
+    toil on the rocks.
 
-there is a ruby in the ground. [[take ruby
-from mine][take ruby (slight of hand)]]
+    there is a ruby in the ground. [[take ruby from mine][take ruby (slight of hand)]]
 
-a monster walks into the camp and just start
-killing folk. Guards don't care. when one of
-the prisoners die. the guy guard gives the
-female gaurd a few copper.
+    a monster walks into the camp and just start killing
+    folk. Guards don't care. when one of the prisoners die.
+    the guy guard gives the female gaurd a few copper.
 
 
-if the players beat the monster male gaurd
-strectches out his hand towards the female
-gautd. but she ignores him.
+    if the players beat the monster male gaurd
+    strectches out his hand towards the female
+    gautd. but she ignores him.
 
 
-the female gaurd asks where the pcs
-learned to fight. she says there is
-better work available if the players
-answer earnestly.
-
-
-
+    the female gaurd asks where the pcs
+    learned to fight. she says there is
+    better work available if the players
+    answer earnestly.
 
 *** prision riot
 *** offer to join gang
 *** gaurd beats a child
-a little drow boy is dressed in what
-looks like guard footie pajamas. hes
-hugging  a male drow leg as the
-drow instructs military men in the art off
-swordplay.
+    a little drow boy is dressed in what
+    looks like guard footie pajamas. hes
+    hugging  a male drow leg as the
+    drow instructs military men in the art off
+    swordplay.
 
-the instructor has the players to join
-as sparing partners.
+    the instructor has the players to join
+    as sparing partners.
 
-He asks that no one hurt each other too
-bad.
+    He asks that no one hurt each other too
+    bad.
 
-A woman wearing a flowey
-white robe walks towards the men. She
-wields a whip with a head of snakes.
+    A woman wearing a flowey
+    white robe walks towards the men. She
+    wields a whip with a head of snakes.
 
-"battle master why isnt terminus
-training", the words fly out of her mouth like
-daggers.
+    "battle master why isnt terminus
+    training", the words fly out of her mouth like
+    daggers.
 
-"watching is training", he says with a coy
-smile. 
+    "watching is training", he says with a coy
+    smile. 
 
-the boy let's  go of the man's
-leg and starts to run.
+    the boy let's  go of the man's
+    leg and starts to run.
 
-the woman responds with the hiss of her
-snake whip. the whips jaw unhinges and
-clasps around the child leg.
+    the woman responds with the hiss of her
+    snake whip. the whips jaw unhinges and
+    clasps around the child leg.
 
-"You must learn to be tough and represent
-house roti properly.", she says. 
+    "You must learn to be tough and represent
+    house roti properly.", she says. 
 
-"battle master teach him properly, and
-if your disposition rubs off on him any
-more your skills with the blade will not
-save ur job our your life."  
+    "battle master teach him properly, and
+    if your disposition rubs off on him any
+    more your skills with the blade will not
+    save ur job our your life."  
 
-she releases her whip an storm's off
-angrily.
+    she releases her whip an storm's off
+    angrily.
 
-the battle masteer doesn't seem to care
-for her comment. He walks up to the
-boy. whispers something in the boys ear
-and the boy whipes down a tear and limps
-away. 
+    the battle masteer doesn't seem to care
+    for her comment. He walks up to the
+    boy. whispers something in the boys ear
+    and the boy whipes down a tear and limps
+    away. 
 
 *** Girl gaurds harrass male guard
     She tips water on his croch and
@@ -180,10 +316,10 @@ away.
     after a while of this. the girl
     starts getting chocked by [[bessy][bessy]]. 
 
-the man stops beating [[Goiam][Goiam]] to turn and
-help her. [[let her die (persuasion)][let her die]]
+    the man stops beating [[Goiam][Goiam]] to turn and
+    help her. [[let her die (persuasion)][let her die]]
 
-if she dies the foreman promotes him.
+    if she dies the foreman promotes him.
 
      
 
@@ -264,4 +400,72 @@ if she dies the foreman promotes him.
   |      |and promotes   |
   |      |the murderer.  |
   +------+---------------+
-
+* isolationist propoganda strengthens their control over the population
+The surface world is painted  as a dangerous place filled
+with demons. There great wonders but they are built on top
+of lies. The people there want nothing more than to genicide
+the drow.
+** Why?
+*** Not all drow are born with drow culture.
+    Some are born with a neutral or even good demeanor, but
+    living among drows tends to normalize the evils that they
+    witness on a daily basis. Older drows remember a time
+    when drows were influenced by surface races, and during
+    this time their ability to predict the moves of their
+    subjects was weakend.
+*** If it aint broke don't fix it
+    Some isolationists thoughts are more practical than
+    macheavelion. The current rules have worked in their favor,
+    and they do not wish to see what happens if they are
+    changed.
+*** Religous argument
+    Lloth has not explicitly been consulted on this subject.
+    Those most loyal to her do not wish to risk angering her
+    by inadvertantly doing something against her wishes. They
+    would however change their minds if they believed this to
+    be the will of Lloth.
+*** Power vacuum
+    If the surface world opened up war would inevitably 
+    strike out. Surface lands won during this  war would
+    create room for new leaders. New leaders would dillute
+    the total power that the old leaders currently have.
+*** Some do not believe that the drow as a race would come up on top after a war with the surface 
+    Most believe that the drow are superior to every surface
+    race in every way, and drow could only be victorious in
+    battle. A small subet of others though believe an all out
+    war the the surface could mean extinction. The drows
+    military might isn't as strong as the propoganda leads
+    people to believe. There is alot of internal strife that
+    severly weakens the cohesion of drow armies. In war a
+    drow soilder is just as likely to get stabbed in his back
+    as he is in his front.
+* profits gained from opening the boarders of menzobarenzon
+** Jarlax would lose alot of power.
+   He has power that a man who rejects drow culture has no
+   right to have. His ideals threaten the ruling powers.
+   Further more his insolent attitude constently angers
+   them. The only reason they don't kill him is that he is
+   indespensible to menzobarenzon. As one of the only
+   consistent conduits to the surface his death would be a
+   great blow to menzobarenzon as a whole.
+** Low ranking houses see it as a way to gain land.
+   Attacking a powerful drow house would be sucide, but a small
+   hobbit village not so much. There is not room these
+   leaders in menzobarenzon, but the world can be a much
+   bigger place if they succefully open it.
+** Some just want to piss off the old leaders (Voting on party lines)
+   Drow are petty. Some do not care about any potential
+   benifits or negatives to this legislation. They are just
+   happy to go against the wills of their adverseries. House
+   mothers that take this route are suprisingly successful,
+   so long as they don't get caught. It wins them favor
+   among their alleys and royally fucks their enemies
+   schemes.
+** One believes that he can rule the world
+   As of the begining of the campaign he will keep this
+   close to his chest, as any threat to the oligarchy is a
+   death warrent for himself. But he is good at operating in
+   choas and he beleives the confusion created will let him
+   swoop in as a dictator.
+* jarlaxe 
+* this problem through any means necessary
