@@ -157,8 +157,8 @@ reflects off the underdark cieling of a
 prision cage in the outskirts of
 menzobarenson.
 
-There are a row of Cells. Yours has
-a beaten looking [[Goiam][dwarf]], a calm [[roki][duegar]], a
+There is a row of cages. In your cage you
+see a beaten looking [[Goiam][dwarf]], a calm [[roki][duegar]], a
 red  [[mincus][huminnoid lizard]], and a large leathery
 skined monster that you recoginize to be a
 [[krag][ogre]].
@@ -190,9 +190,11 @@ not trying to tame this lady however. she
 will be sent to the arenas wild.  
 *** roki
 **** Description
-bald duegar. He picks his teath with a quill
+bald duegar. He picks his teeth with a quill
 from his black spikey beard of quills. He
-looks at ease.
+looks at ease. He has a spiderweb
+tattoo on his elbow. It is from before
+he was a drow prisioner though.
 **** Background
 He has also been here for a while he knows
 how the system works and fakes being weaker
@@ -207,20 +209,20 @@ doesn't stop on anyone's toes.
 kobold. Red lizard man. Not beat up. 
 **** Background
 He used too serve a dragon. But she lost one
-of her eggs a stupid gnome and a goddy
+of her eggs to a stupid gnome and a goddy
 tiefling. She rejected him and her other
 servants and he's been having a bad time on
-his own. He went too the underdark looking
+his own. He went to the underdark looking
 for a way to redeem himself in her eyes. As
 servitude is all he knows.  things considered
-bge doesn't mind being a slave. As being an
+he doesn't mind being a slave. As being an
 independent thinker served him pretty poorly
 thus far. 
 *** krag
 **** Description
 Ogre. He massive with no hair and grey skin.
 Chained and scarred. His heard is slightly
-caved in. Hee is in the same cage as you. 
+caved in. He is in the same cage as you. 
 **** Background
 he has been here for a while. The drow are
 prepping him for the market.They are almost
@@ -236,25 +238,73 @@ done breaking his spirit.
     mining cart and tells you to fill it. Enfebled slaves
     toil on the rocks.
 
-    there is a ruby in the ground. [[take ruby from mine][take ruby (slight of hand)]]
+male guard looks at larger player
+character.  "alright lets see what you
+got. Hit that iron deposit right over
+there. No slaves broke  it yet. but ur a
+big  boy." 
+ [[hit ore][hit ore (athletics)]]
+
+there is a ruby in the ground.
+ [[take rubyfrom mine][take ruby (slight of hand)]]
+
 
     a monster walks into the camp and just start killing
     folk. Guards don't care. when one of the prisoners die.
     the guy guard gives the female gaurd a few copper.
 
 
-    if the players beat the monster male gaurd
-    strectches out his hand towards the female
-    gautd. but she ignores him.
+if the players beat the monster male gaurd
+strectches out his hand towards the female
+gautd. but she ignores him.
 
 
-    the female gaurd asks where the pcs
-    learned to fight. she says there is
-    better work available if the players
-    answer earnestly.
+the female gaurd asks where the pcs
+learned to fight. she says there is
+better work available if the players
+answer earnestly.
 
 *** prision riot
+[[roki][roki]] mentions "I heard the last
+inaffiliated drow prisioner insited a
+prison riot."
+
+he doesn't know how they did it as most
+slaves here are demoralized. 
+ if the players ask. 
+
+"she must have found something that the
+prisoners cared more about then their
+lives and had them rally behind
+that. But i dunno. the drow and a
+fewvpeople escaped and everyone else
+died. I heard this from a guard and
+guards aren't about giving prision
+break tutorials."
+
 *** offer to join gang
+A gaurd takes the pcs to a heavily
+fortified large gated area. There are
+bleachers practice dummies, a flat
+soccer ball, and a pullup bar.
+
+ [[roki]] immediately plops his ass on the
+bleachers. He exchanges roots for dried
+pasta.
+
+a  gang  made up of heavily tattoed
+drow women.
+
+ [[drow gang tattoos]] . they call
+themselves the [[corellon larethian][larethian]] sister hood. 
+
+A large mohawked drow hands Alex a chiv
+and says "if you stab that disgusting
+lizard you can join us as a box fairy"
+
+"well keep you really safe for your stay
+here."
+
 *** gaurd beats a child
     a little drow boy is dressed in what
     looks like guard footie pajamas. hes
@@ -265,8 +315,8 @@ done breaking his spirit.
     the instructor has the players to join
     as sparing partners.
 
-    He asks that no one hurt each other too
-    bad.
+He asks "no one hurt each other too
+bad."
 
     A woman wearing a flowey
     white robe walks towards the men. She
@@ -297,11 +347,11 @@ done breaking his spirit.
     she releases her whip an storm's off
     angrily.
 
-    the battle masteer doesn't seem to care
-    for her comment. He walks up to the
-    boy. whispers something in the boys ear
-    and the boy whipes down a tear and limps
-    away. 
+the battle master doesn't seem to care
+for her comment. He walks up to the
+boy. whispers something in the boys ear
+and the boy whipes down a tear and limps
+away. 
 
 *** Girl gaurds harrass male guard
     She tips water on his croch and
@@ -319,16 +369,51 @@ done breaking his spirit.
     the man stops beating [[Goiam][Goiam]] to turn and
     help her. [[let her die (persuasion)][let her die]]
 
-    if she dies the foreman promotes him.
+if she dies the foreman promotes him.
+*** introduce jarlaxe
+[[./jarlax.org][a beautifully dressed male drow]]  walks
+and starts talking to prisioners. He
+sports an impressive amount of
+bling. gold chains drape his brightly
+colored silk vest. The legs of  his leather
+pants are skin colored but patterened in
+a way that makes it look like he is
+wearing red lingerie. 
 
-     
+He hands one of the guards a sack of
+coins and she points to ur cage and
+walks away.
+
+He stares at the player characters until
+they speak to him. 
+
+"I heard that u were strong and i dont
+mean to assume... but judging by your current
+prediciment ... im guessing that you are not
+a fan of the current establishment. Im
+about to piss them off properly. So
+perhaps,  in exchange for ur help i could
+buy you out of this situation. You would
+be mercenaries not slaves."
+
+if they ask why he stared at them.
+"Just sizing you up"
+
+Anyways as a retainer her is some gold ontop
+of ur freedom. if u want work find my
+headquarters and there is some armorments and
+information in it for you. 
+
+He unlocks the cell and jingles as he
+walks away.
+
+
 
 * female-guard
 * male-gaurd
-
 * barrier of light on path
   +-----+-----+
-  |check  |  de   sc   |
+ |check  |  de   sc   |
   +-----+----------+
   | 10  |These     |
   |     |lights    |
@@ -351,7 +436,7 @@ done breaking his spirit.
   |     |          |
   +-----+----------+
 
-* take ruby from mine
+* take rubyfrom mine
 |-------+---------------------------|
 | check | desc                      |
 |-------+---------------------------|
@@ -467,5 +552,39 @@ the drow.
    death warrent for himself. But he is good at operating in
    choas and he beleives the confusion created will let him
    swoop in as a dictator.
-* jarlaxe 
-* this problem through any means necessary
+
+* hit ore
+  | check | desc                        |
+  |     7 | The ore makes the           |
+  |       | lightest tink sound. Like a |
+  |       | small bell on a kittens     |
+  |       | collar jiggling as it       |
+  |       | gently breathes mid nap.    |
+  |       |                             |
+  |    10 | the cracks down the middle  |
+  |       | giving a good foothold for  |
+  |       | another strike.             |
+  |    17 | the ore explodes.           |
+  |       |                             |
+  |    20 | nothing happens....at       |
+  |       | first. You know the rock is |
+  |       | broken. It is, just the     |
+  |       | rock wont know that is for  |
+  |       | 3 more seconds. The guard   |
+  |       | leta out a laugh," i        |
+  |       | thought u looked tough. but |
+  |       | i guess ur another slave."  |
+
+* drow gang tattoos
+They have tattoo sleeves on their necks
+arms and backs.
+- compass with 8 points
+- drow woman with ethral spider legs
+skulltilla with symbol female gaurds
+wear around their necks imprinted in head
+- orc/gnome/human wrapped up in a spider
+web.
+- a naked male drow spread eagle covering
+his junk with a greatsword.
+* corellon larethian
+creator of elves.
