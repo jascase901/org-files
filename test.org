@@ -1,8 +1,9 @@
 
+
   
 * Summary
   One tennat of Menzobarenzon culture was that civilians can
-  not freely go to the surface world. The surface world has
+   not freely go to the surface world. The surface world has
   historically been painted as a place of curroption. The
   old ruling houses determined that 
   [[isolationist propoganda strengthens their control over the
@@ -408,12 +409,26 @@ He unlocks the cell and jingles as he
 walks away.
 
 
+*** house udan investigation intro
+**** info to give players
+- [ ] [[house udan]] was the house that owned their
+  prision.
+- [ ] jarlaxe was the anonmous bag of gold. alexs
+  char was the only thief crazy enough to try
+  stealing from house [[house udan]]
+- [ ] [[house udan]] lost all its mages in a recent
+  conflict with a destroyed house.
+- [ ] the battle master fought with jarlaxe once
+  he is a strong opponent, and is uncharistically
+  a good man. hes also currently sleeping with the
+  matriarch of [[house udan]]. Its best to stay away
+  from him, as he can and will kill them.
 
-* female-guard
+* Female-guard
 * male-gaurd
 * barrier of light on path
   +-----+-----+
- |check  |  de   sc   |
+  |check  |  de   sc   |
   +-----+----------+
   | 10  |These     |
   |     |lights    |
