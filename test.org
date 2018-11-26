@@ -28,12 +28,36 @@
  house with a weak military see ([[profits gained from opening
  the boarders of menzobarenzon]]) 
  
+* Act 0
+** Kassandra 
+   She was hired to invistigate missing people, and possibly
+   kill or capture a serial killer. She figured out the
+   killers next target and camped out their to intercept
+   them. Unfortunately the target was high level mage, she
+   put kassandra to sleep and brought her back as a prisioner
+   to house udan.
+** Bellamy
+   She got lost in the woods near her monastry and found
+   herself caught in the cross fire of a drow raid on an
+   isolated dwarven city. They took her back to the underdark
+   with the rest of the dwarves, and have been [[Bellamy Torture][torturing]] her
+   for months.
+** Traedis
+   He was hunting darkspawn, and a portal opened up below his feet. He fell
+   through and got taken by a drow patrol on the other side.
+
+   
 ** Act 1
-  [[House Udan]] lost their powerful mages in a house struggle. As such
-  it is believed they do not have the ability to open a gate
-  to the surface world. However, their leader [[Adre'a]] has been
-  argueing strongly for opening the gates. [[Jarlaxe]] wishes to
-  have the players discover why.
+*** Last Time on Dnd
+    3 drow prisioners from the Corellon Sisterhood challenge the group to a
+    fight. Roki told the party that these sisters run this place, but they
+    attack them anyways.
+*** Next time
+    [[House Udan]] lost their powerful mages in a house struggle. As such
+    it is believed they do not have the ability to open a gate
+    to the surface world. However, their leader [[Adre'a]] has been
+    argueing strongly for opening the gates. [[Jarlaxe]] wishes to
+    have the players discover why.
  
 ** Act 2 
   The players discover that while they do not have mages.
@@ -206,8 +230,8 @@ he his friends with the gaurds. people
 protect him as long as he's useful and
 doesn't stop on anyone's toes.
 *** mincus
-**** Description
-kobold. Red lizard man. Not beat up. 
+*** Description
+    kobold. Red lizard man. Not beat up. 
 **** Background
 He used too serve a dragon. But she lost one
 of her eggs to a stupid gnome and a goddy
@@ -603,3 +627,12 @@ web.
 his junk with a greatsword.
 * corellon larethian
 creator of elves.
+* Bellamy Torture
+  They are testing out how much punishment surface dwarves
+  can take before perishing. Initially they were just going
+  to kill her as she is a human and the test was designed
+  for dwarves, but when she proved to be hardier than the
+  other dwarves she kinda became a pet project to the
+  scientists there. There methods involve putting her in a
+  pitch black room and beating her until she
+  falls unconcious.
